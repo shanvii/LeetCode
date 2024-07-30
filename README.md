@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shanvii/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shanvii/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0812-rotate-string](https://github.com/shanvii/LeetCode/tree/master/0812-rotate-string) |
 ## Trie
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/shanvii/LeetCode/tree/master/0777-toeplitz-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shanvii/LeetCode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shanvii/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
