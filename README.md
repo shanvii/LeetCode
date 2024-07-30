@@ -51,4 +51,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shanvii/LeetCode/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/shanvii/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
