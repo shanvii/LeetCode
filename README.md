@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/shanvii/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shanvii/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shanvii/LeetCode/tree/master/0020-valid-parentheses) |
 | [0812-rotate-string](https://github.com/shanvii/LeetCode/tree/master/0812-rotate-string) |
 ## Trie
 |  |
@@ -46,4 +47,8 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/shanvii/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shanvii/LeetCode/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shanvii/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
