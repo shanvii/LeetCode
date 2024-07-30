@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0777-toeplitz-matrix](https://github.com/shanvii/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/shanvii/LeetCode/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->
