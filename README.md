@@ -34,6 +34,7 @@
 | [0074-search-a-2d-matrix](https://github.com/shanvii/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shanvii/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0777-toeplitz-matrix](https://github.com/shanvii/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -96,6 +97,7 @@
 | [0035-search-insert-position](https://github.com/shanvii/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shanvii/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shanvii/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
