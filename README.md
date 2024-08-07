@@ -29,6 +29,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shanvii/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shanvii/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/shanvii/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0777-toeplitz-matrix](https://github.com/shanvii/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shanvii/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0777-toeplitz-matrix](https://github.com/shanvii/LeetCode/tree/master/0777-toeplitz-matrix) |
 ## Hash Table
 |  |
@@ -87,6 +89,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shanvii/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shanvii/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/shanvii/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
