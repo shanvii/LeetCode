@@ -9,16 +9,16 @@ class Solution {
         // }
         // return (int)i-1;
  
-        long l = 1;
-        long r = x;
+        int l = 1;
+        int r = x;
         while(l <= r) {
-            long mid = l + (r - l)/2;
-            long sq = mid * mid;
+            int mid = l + (r - l)/2;
+            long sq = (long) mid * mid;
 
-            if(sq == x) return (int)mid;
+            if(sq == x) return mid;
             else if(sq < x) l = mid + 1;
             else    r = mid - 1;
         }
-        return (int)r;
+        return r;
     }
 }
