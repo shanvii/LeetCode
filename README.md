@@ -78,6 +78,7 @@
 | [0013-roman-to-integer](https://github.com/shanvii/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shanvii/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shanvii/LeetCode/tree/master/0069-sqrtx) |
+| [1013-fibonacci-number](https://github.com/shanvii/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shanvii/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/shanvii/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +122,12 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shanvii/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shanvii/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/shanvii/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/shanvii/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
