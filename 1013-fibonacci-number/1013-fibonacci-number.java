@@ -1,6 +1,6 @@
 class Solution {
     public int fib(int n) {
-        if(n<=1) return n;
+        if(n <= 1) return n;
         int f[] = new int[n + 1];
 
         f[0] = 1;
@@ -44,7 +44,7 @@ class Solution {
 // class Solution {
 //     public int fib(int n) {
 //         int sum = 0;
-//         if (n < 1)
+//         if (n <= 1)
 //             return n;
 //         return fib(n - 1) + fib(n - 2);
 //     }
