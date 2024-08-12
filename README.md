@@ -79,6 +79,7 @@
 | [0066-plus-one](https://github.com/shanvii/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shanvii/LeetCode/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/shanvii/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/shanvii/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -126,8 +127,10 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shanvii/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/shanvii/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shanvii/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/shanvii/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
