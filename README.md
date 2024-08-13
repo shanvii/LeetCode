@@ -12,6 +12,7 @@
 | [0125-valid-palindrome](https://github.com/shanvii/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shanvii/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/shanvii/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0742-to-lower-case](https://github.com/shanvii/LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/shanvii/LeetCode/tree/master/0812-rotate-string) |
 ## Trie
 |  |
