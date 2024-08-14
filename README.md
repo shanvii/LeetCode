@@ -85,6 +85,7 @@
 | [0171-excel-sheet-column-number](https://github.com/shanvii/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/shanvii/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shanvii/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shanvii/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/shanvii/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/shanvii/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
@@ -110,6 +111,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/shanvii/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/shanvii/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shanvii/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shanvii/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/shanvii/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -148,4 +150,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shanvii/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/shanvii/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
