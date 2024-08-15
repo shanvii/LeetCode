@@ -39,6 +39,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shanvii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shanvii/LeetCode/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/shanvii/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shanvii/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shanvii/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/shanvii/LeetCode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -74,6 +76,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shanvii/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shanvii/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/shanvii/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
