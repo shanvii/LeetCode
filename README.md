@@ -40,6 +40,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shanvii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shanvii/LeetCode/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/shanvii/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shanvii/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shanvii/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shanvii/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/shanvii/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shanvii/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0777-toeplitz-matrix](https://github.com/shanvii/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanvii/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -156,4 +158,16 @@
 | ------- |
 | [0231-power-of-two](https://github.com/shanvii/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shanvii/LeetCode/tree/master/0342-power-of-four) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shanvii/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shanvii/LeetCode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shanvii/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
