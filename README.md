@@ -111,6 +111,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shanvii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shanvii/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shanvii/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/shanvii/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Database
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shanvii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shanvii/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/shanvii/LeetCode/tree/master/0200-number-of-islands) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/shanvii/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/shanvii/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shanvii/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shanvii/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/shanvii/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
