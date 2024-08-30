@@ -13,6 +13,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/shanvii/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/shanvii/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/shanvii/LeetCode/tree/master/0344-reverse-string) |
+| [0657-robot-return-to-origin](https://github.com/shanvii/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/shanvii/LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/shanvii/LeetCode/tree/master/0812-rotate-string) |
 ## Trie
@@ -239,4 +240,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shanvii/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/shanvii/LeetCode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
