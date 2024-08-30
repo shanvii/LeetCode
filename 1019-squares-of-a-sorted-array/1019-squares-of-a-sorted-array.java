@@ -7,14 +7,13 @@ class Solution {
         while(left <= right) {
             if(Math.abs(nums[left]) > nums[right]) {
                 arr[k] = nums[left] * nums[left];
-                k--;
                 left++;
             }
             else {
                 arr[k] = nums[right] * nums[right];
-                k--;
                 right--;
             }
+            k--;
         }
         return arr;
     }
