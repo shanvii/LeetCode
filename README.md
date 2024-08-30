@@ -43,6 +43,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shanvii/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shanvii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/shanvii/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shanvii/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shanvii/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shanvii/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shanvii/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shanvii/LeetCode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
@@ -92,6 +94,7 @@
 | [0013-roman-to-integer](https://github.com/shanvii/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/shanvii/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shanvii/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/shanvii/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shanvii/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -173,6 +176,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shanvii/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/shanvii/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shanvii/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -231,4 +235,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shanvii/LeetCode/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shanvii/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
