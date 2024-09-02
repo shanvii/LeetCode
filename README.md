@@ -58,6 +58,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/shanvii/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanvii/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shanvii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [0792-binary-search](https://github.com/shanvii/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shanvii/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanvii/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shanvii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -250,8 +252,13 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/shanvii/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shanvii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shanvii/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shanvii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
