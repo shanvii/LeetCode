@@ -4,7 +4,6 @@ class Solution {
             return "";
 
         String base = strs[0];
-        String str = "";
 
         for(int i = 0; i < base.length(); i++) {
             for(int j = 1; j < strs.length; j++) {
