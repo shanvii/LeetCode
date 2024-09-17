@@ -53,6 +53,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/shanvii/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/shanvii/LeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shanvii/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shanvii/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/shanvii/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/shanvii/LeetCode/tree/master/0792-binary-search) |
@@ -84,6 +85,7 @@
 | [0088-merge-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shanvii/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shanvii/LeetCode/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shanvii/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -118,6 +120,7 @@
 | [0231-power-of-two](https://github.com/shanvii/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shanvii/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shanvii/LeetCode/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shanvii/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/shanvii/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/shanvii/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
