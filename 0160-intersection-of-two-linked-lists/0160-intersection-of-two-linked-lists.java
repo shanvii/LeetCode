@@ -1,9 +1,3 @@
-
-//Brute
-
-//Time Complexity : O(m * n)
-//Space Complexity : O(1)
-
 public class Solution {
    
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
