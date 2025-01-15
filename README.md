@@ -44,6 +44,7 @@
 | [0118-pascals-triangle](https://github.com/shanvii/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shanvii/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shanvii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/shanvii/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shanvii/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shanvii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shanvii/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/shanvii/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shanvii/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shanvii/LeetCode/tree/master/0342-power-of-four) |
 ## Depth-First Search
