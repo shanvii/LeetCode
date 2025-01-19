@@ -55,6 +55,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shanvii/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/shanvii/LeetCode/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shanvii/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/shanvii/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shanvii/LeetCode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shanvii/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,6 +91,7 @@
 | [0088-merge-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shanvii/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shanvii/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shanvii/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shanvii/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
@@ -111,6 +113,7 @@
 | [0169-majority-element](https://github.com/shanvii/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shanvii/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shanvii/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/shanvii/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/shanvii/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -126,6 +129,7 @@
 | [0171-excel-sheet-column-number](https://github.com/shanvii/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/shanvii/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shanvii/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shanvii/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shanvii/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shanvii/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shanvii/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -194,6 +198,7 @@
 | [0162-find-peak-element](https://github.com/shanvii/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shanvii/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shanvii/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/shanvii/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shanvii/LeetCode/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shanvii/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -226,6 +231,7 @@
 | [0067-add-binary](https://github.com/shanvii/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shanvii/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shanvii/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shanvii/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shanvii/LeetCode/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
