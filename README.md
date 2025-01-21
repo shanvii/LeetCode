@@ -57,6 +57,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/shanvii/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shanvii/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shanvii/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/shanvii/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shanvii/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shanvii/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -298,9 +299,14 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shanvii/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shanvii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shanvii/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shanvii/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
