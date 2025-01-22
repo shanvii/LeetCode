@@ -1,4 +1,3 @@
-// Approach 2: In-Place Modification
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         int i = 0;
@@ -8,17 +7,31 @@ class Solution {
                 int temp = nums[correct];
                 nums[correct] = nums[i];
                 nums[i] = temp;
-            } else {
+            } else
                 i++;
-            }
         }
         
         List<Integer> ans = new ArrayList<>();
-        for (int index = 0; index < nums.length; index++) {
-            if (nums[index] != index + 1) {
+        for (int index = 0; index < nums.length; index++)
+            if (nums[index] != index + 1)
                 ans.add(index + 1);
-            }
-        }
+
         return ans;
     }
 }
+
+// class Solution {
+//     public List<Integer> findDisappearedNumbers(int[] nums) {
+//         ArrayList<Integer> list = new ArrayList<>();
+//         HashSet<Integer> set = new HashSet<>();
+
+//         for(int n: nums)
+//             set.add(n);
+
+//         for(int i = 1; i <= nums.length; i++)    {
+//             if(!set.contains(i))
+//                 list.add(i);
+//         }
+//         return list;
+//     }
+// }
