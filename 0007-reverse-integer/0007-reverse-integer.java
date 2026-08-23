@@ -1,9 +1,9 @@
 import java.lang.Math;
 
 class Solution {
-    public int reverse(int x) {
+    public int reverse(int num) {
         int rev = 0;
-        int num = Math.abs(x);
+        // int num = Math.abs(x);
         while(num != 0) {
             int digit = num % 10;
 
@@ -19,6 +19,6 @@ class Solution {
             num /= 10;
         }
         
-        return (x < 0) ? (-rev) : rev;
+        return rev;
     }
 }
