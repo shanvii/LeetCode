@@ -72,6 +72,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/shanvii/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanvii/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shanvii/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shanvii/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
