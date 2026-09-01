@@ -64,6 +64,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shanvii/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/shanvii/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/shanvii/LeetCode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/shanvii/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shanvii/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shanvii/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
