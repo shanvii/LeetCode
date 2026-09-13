@@ -39,6 +39,7 @@
 | [0035-search-insert-position](https://github.com/shanvii/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shanvii/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/shanvii/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/shanvii/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shanvii/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shanvii/LeetCode/tree/master/0118-pascals-triangle) |
@@ -82,6 +83,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shanvii/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shanvii/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/shanvii/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shanvii/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shanvii/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -101,6 +103,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shanvii/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shanvii/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shanvii/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shanvii/LeetCode/tree/master/0217-contains-duplicate) |
@@ -339,4 +342,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shanvii/LeetCode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shanvii/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shanvii/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
